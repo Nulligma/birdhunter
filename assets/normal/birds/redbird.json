@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"Symbol 1 instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":27,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":24},
+	"sourceSize": {"w":27,"h":24}
+},
+"Symbol 1 instance 10001":
+{
+	"frame": {"x":0,"y":24,"w":23,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":27,"h":24},
+	"sourceSize": {"w":27,"h":24}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "redbird.png",
+	"format": "RGBA8888",
+	"size": {"w":32,"h":64},
+	"scale": "1"
+}
+}

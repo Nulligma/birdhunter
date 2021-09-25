@@ -1,0 +1,99 @@
+﻿{"frames": {
+
+"upgradeBar instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":161,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":45},
+	"sourceSize": {"w":161,"h":45}
+},
+"upgradeBar instance 10001":
+{
+	"frame": {"x":0,"y":45,"w":161,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":45},
+	"sourceSize": {"w":161,"h":45}
+},
+"upgradeBar instance 10002":
+{
+	"frame": {"x":0,"y":90,"w":161,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":45},
+	"sourceSize": {"w":161,"h":45}
+},
+"upgradeBar instance 10003":
+{
+	"frame": {"x":0,"y":135,"w":161,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":45},
+	"sourceSize": {"w":161,"h":45}
+},
+"upgradeBar instance 10004":
+{
+	"frame": {"x":0,"y":180,"w":161,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":45},
+	"sourceSize": {"w":161,"h":45}
+},
+"upgradeBar instance 10005":
+{
+	"frame": {"x":0,"y":225,"w":161,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":45},
+	"sourceSize": {"w":161,"h":45}
+},
+"upgradeBar instance 10006":
+{
+	"frame": {"x":0,"y":270,"w":161,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":45},
+	"sourceSize": {"w":161,"h":45}
+},
+"upgradeBar instance 10007":
+{
+	"frame": {"x":0,"y":315,"w":161,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":45},
+	"sourceSize": {"w":161,"h":45}
+},
+"upgradeBar instance 10008":
+{
+	"frame": {"x":0,"y":360,"w":161,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":45},
+	"sourceSize": {"w":161,"h":45}
+},
+"upgradeBar instance 10009":
+{
+	"frame": {"x":0,"y":405,"w":161,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":45},
+	"sourceSize": {"w":161,"h":45}
+},
+"upgradeBar instance 10010":
+{
+	"frame": {"x":0,"y":450,"w":161,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":45},
+	"sourceSize": {"w":161,"h":45}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "upgradeBar.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

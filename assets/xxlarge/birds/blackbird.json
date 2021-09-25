@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"Symbol 5 instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":175,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":180},
+	"sourceSize": {"w":175,"h":180}
+},
+"Symbol 5 instance 10001":
+{
+	"frame": {"x":0,"y":105,"w":174,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":60,"w":175,"h":180},
+	"sourceSize": {"w":175,"h":180}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "blackbird.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"Symbol 9 instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":101,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":120},
+	"sourceSize": {"w":103,"h":120}
+},
+"Symbol 9 instance 10001":
+{
+	"frame": {"x":0,"y":81,"w":102,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":51,"w":103,"h":120},
+	"sourceSize": {"w":103,"h":120}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "goose.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1"
+}
+}

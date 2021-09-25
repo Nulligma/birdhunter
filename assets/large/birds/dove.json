@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"Symbol 6 instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":52,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":60},
+	"sourceSize": {"w":54,"h":60}
+},
+"Symbol 6 instance 10001":
+{
+	"frame": {"x":0,"y":45,"w":46,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":31,"w":54,"h":60},
+	"sourceSize": {"w":54,"h":60}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "dove.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1"
+}
+}

@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"Symbol 2 instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":25,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":20},
+	"sourceSize": {"w":26,"h":20}
+},
+"Symbol 2 instance 10001":
+{
+	"frame": {"x":0,"y":19,"w":26,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":26,"h":20},
+	"sourceSize": {"w":26,"h":20}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "sparrow.png",
+	"format": "RGBA8888",
+	"size": {"w":32,"h":64},
+	"scale": "1"
+}
+}

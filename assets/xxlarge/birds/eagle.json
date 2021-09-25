@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"Eagle instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":111,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":0,"w":148,"h":171},
+	"sourceSize": {"w":148,"h":171}
+},
+"Eagle instance 10001":
+{
+	"frame": {"x":0,"y":132,"w":147,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":87,"w":148,"h":171},
+	"sourceSize": {"w":148,"h":171}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "eagle.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

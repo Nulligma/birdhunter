@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"Symbol 8 instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":26,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":37},
+	"sourceSize": {"w":26,"h":37}
+},
+"Symbol 8 instance 10001":
+{
+	"frame": {"x":0,"y":25,"w":26,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":26,"h":37},
+	"sourceSize": {"w":26,"h":37}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "alba.png",
+	"format": "RGBA8888",
+	"size": {"w":32,"h":64},
+	"scale": "1"
+}
+}

@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"parrot instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":26,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":32},
+	"sourceSize": {"w":26,"h":32}
+},
+"parrot instance 10001":
+{
+	"frame": {"x":0,"y":26,"w":26,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":26,"h":32},
+	"sourceSize": {"w":26,"h":32}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "parrot.png",
+	"format": "RGBA8888",
+	"size": {"w":32,"h":64},
+	"scale": "1"
+}
+}

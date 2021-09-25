@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"cassowary instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":125,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":125,"h":131},
+	"sourceSize": {"w":125,"h":131}
+},
+"cassowary instance 10001":
+{
+	"frame": {"x":125,"y":0,"w":121,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":125,"h":131},
+	"sourceSize": {"w":125,"h":131}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "caso.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

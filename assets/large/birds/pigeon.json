@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"Symbol 3 instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":42,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":34},
+	"sourceSize": {"w":42,"h":34}
+},
+"Symbol 3 instance 10001":
+{
+	"frame": {"x":0,"y":27,"w":42,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":42,"h":34},
+	"sourceSize": {"w":42,"h":34}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "pigeon.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":64},
+	"scale": "1"
+}
+}
